@@ -4,13 +4,13 @@ import 'package:githubrepo/models/repository.dart';
 final kRepositoriesMock = [
   Repository(
     id: 188897530,
-    name: "fiap",
+    name: "Pandas",
     owner: Owner(
-      login: "josecastillolema",
-      avatar: "https://avatars.githubusercontent.com/u/7546521?v=4",
+      login: "rafatannousfiap",
+      avatar: "https://avatars.githubusercontent.com/u/103541754?v=4",
     ),
     htmlUrl: "https://github.com/josecastillolema/fiap",
-    description: "Aplicações para os cursos de pós-graduação da FIAP",
+    description: "Nesse repositório irei armazenar todos os scripts que eu desenvolver a partir da biblioteca \"Pandas\"",
     url: "https://api.github.com/repos/josecastillolema/fiap",
   ),
   Repository(
